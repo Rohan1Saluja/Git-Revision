@@ -3,3 +3,4 @@ Index File for Version 2.
 Here is some Random Text Information.
 Version 2 has this additional information.
 I am inside GitHub Repository right now.
+GitHub Repository has been modified due to some incompatible functionalities which were causing some difficulties while performing the tasks.
